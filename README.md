@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋 my name is Oleksii
+### I am Java Script and React Developer
 
-<!--
-**musiienko25/musiienko25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skilled FrontEnd developer who loves coding and creating user-friendly Web pages and applications. My technical skills include:
+● CSS3, HTML5, Bootstrap, SASS, Adaptive design
+● JavaScript: ES6, AJAX
+● Frameworks and libraries: React
+● Redux
+● Cypress
+● Webpack and Gulp
+● Task and Project Management: Jira, Asana, Slack
+● Tools: Photoshop, Illustrator, Figma, NPM, YARN, Git
+● English: Intermidiate
