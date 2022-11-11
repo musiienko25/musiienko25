@@ -3,10 +3,10 @@
 
 Skilled FrontEnd developer who loves coding and creating user-friendly Web pages and applications. My technical skills include:<br />
 ● CSS3, HTML5, Bootstrap, SASS, Adaptive design<br />
-● JavaScript: ES6, AJAX
-● Frameworks and libraries: React
-● Redux
-● Cypress
-● Webpack and Gulp
-● Task and Project Management: Jira, Asana, Slack
-● English: Intermidiate
+● JavaScript: ES6, AJAX<br />
+● Frameworks and libraries: React<br />
+● Redux<br />
+● Cypress<br />
+● Webpack and Gulp<br />
+● Task and Project Management: Jira, Asana, Slack<br />
+● English: Intermidiate<br />
