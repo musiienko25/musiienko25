@@ -1,8 +1,8 @@
 ### Hi 👋 my name is Oleksii
 ### I am Java Script and React Developer
 
-Skilled FrontEnd developer who loves coding and creating user-friendly Web pages and applications. My technical skills include:
-● CSS3, HTML5, Bootstrap, SASS, Adaptive design
+Skilled FrontEnd developer who loves coding and creating user-friendly Web pages and applications. My technical skills include:<br />
+● CSS3, HTML5, Bootstrap, SASS, Adaptive design<br />
 ● JavaScript: ES6, AJAX
 ● Frameworks and libraries: React
 ● Redux
