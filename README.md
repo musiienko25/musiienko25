@@ -4,7 +4,7 @@
 Skilled FrontEnd developer who loves coding and creating user-friendly Web pages and applications. My technical skills include:<br />
 ● CSS3, HTML5, Bootstrap, SASS, Adaptive design<br />
 ● JavaScript: ES6, AJAX<br />
-● Frameworks and libraries: React<br />
+● React<br />
 ● Redux<br />
 ● Cypress<br />
 ● Webpack and Gulp<br />
