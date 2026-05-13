@@ -1,6 +1,6 @@
 ### Hi 👋 my name is Oleksii
 
-### I am a Full-Stack Developer + AI
+### I am a Full-Stack & AI Developer
 
 Full-stack developer focused on building SaaS platforms, AI-driven products, and modern web applications. I enjoy building scalable systems, clean UI/UX, and solving real product problems.<br />
 
