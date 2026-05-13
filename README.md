@@ -9,4 +9,4 @@ Skilled FrontEnd developer who loves coding and creating user-friendly Web pages
 ● Cypress<br />
 ● Webpack and Gulp<br />
 ● Task and Project Management: Jira, Asana, Slack<br />
-● English: Intermidiate<br />
+● English: Upper<br />
